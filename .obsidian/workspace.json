@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "303c714eeaec8e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc83cef9bcba79a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec919b5e4ce91cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threat Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Threat Intelligence"
+            }
+          },
+          {
+            "id": "e9375521412c402b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Basics"
+            }
+          },
+          {
+            "id": "d3634182e9b6ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Deployment Environment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Deployment Environment"
+            }
+          },
+          {
+            "id": "179f5599b3e50299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Stages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Stages"
+            }
+          },
+          {
+            "id": "fec927605d8b889a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Stages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Stages"
+            }
+          },
+          {
+            "id": "acbb21f2834befbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Functions"
+            }
+          },
+          {
+            "id": "dc66c53ad82e8206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/JSON Object Manipulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSON Object Manipulation"
+            }
+          },
+          {
+            "id": "54215197a060073f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XQL/XQL Data Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XQL Data Types"
+            }
+          },
+          {
+            "id": "5009713afaea0780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Query Result Visulization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Query Result Visulization"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "349319a61d679632",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2240adad95f16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255960ffdd1b2266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f37a7dd2e47edd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8b9caf176414c3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "255228ed8eb54188",
+    "type": "split",
+    "children": [
+      {
+        "id": "d702011c5127d00b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42a276df16b81c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Threat Intelligence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Threat Intelligence"
+            }
+          },
+          {
+            "id": "49702b06a0bf1f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Threat Intelligence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Threat Intelligence"
+            }
+          },
+          {
+            "id": "c63bc738af71f622",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "567d5baf75319dfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Threat Intelligence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Threat Intelligence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5009713afaea0780",
+  "lastOpenFiles": [
+    "XQL/XQL Data Types.md",
+    "Query Result Visulization.md",
+    "XQL/XQL Stages.md",
+    "XQL/XQL Functions.md",
+    "XQL/XQL Deployment Environment.md",
+    "XQL/XQL Basics.md",
+    "XQL/JSON Object Manipulation.md",
+    "Data Sets.md",
+    "XQL/Stage Order.md",
+    "Threat Intelligence.md",
+    "XQL",
+    "BYOK.md"
+  ]
+}
